@@ -1,0 +1,25 @@
+{
+  "name": "atom-text-buffer-point",
+  "version": "1.0.0",
+  "description": "Point class from Atom's TextBuffer",
+  "main": "point.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steelbrain/atom-text-buffer-point.git"
+  },
+  "keywords": [
+    "atom",
+    "text",
+    "buffer",
+    "point"
+  ],
+  "author": "steelbrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steelbrain/atom-text-buffer-point/issues"
+  },
+  "homepage": "https://github.com/steelbrain/atom-text-buffer-point#readme"
+}
