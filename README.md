@@ -1,4 +1,6 @@
 # TextBuffer-Point
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/steelbrain/atom-text-buffer-point.svg)](https://greenkeeper.io/)
 The Point module from TextBuffer. To be used when you don't want to include the entire textbuffer module.
 
 ## Installation
